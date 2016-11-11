@@ -45,9 +45,9 @@ X = [[181, 80, 44], [177, 70, 43], [160, 60, 38], [154, 54, 37], [166, 65, 40], 
 
 Y = ['male', 'male', 'female', 'female', 'male', 'male', 'female', 'female', 'female', 'male', 'male']
 ```
-## 4 classified Models used in the sample
-* 1. Decision Tree
-* 2. KNeighborsClassifier
-* 3. linearSVM
-* 4. AdaBoostClassifier
+## Classified Models used in the sample
+* Decision Tree
+* KNeighborsClassifier
+* linearSVM
+* AdaBoostClassifier
   
