@@ -4,12 +4,14 @@ Project source can be found from Youtube:
 
 Introduction - Learn Python for Data Science #1 created by Sirajology
 
+Youtube URL: (https://www.youtube.com/watch?v=T5pRlIbr6gg&index=1&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+
 ================
 
 Challenge on gender classification by using 3 different models based on Decision Tree
 
 ================
-Author: Weijie
+## Author: Weijie
 
 ```
 Demo.py
