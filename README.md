@@ -14,7 +14,7 @@ Challenge on gender classification by using 3 different models based on Decision
 ## Author: Weijie
 
 ```
-Demo.py
+Day_1_GenderClassifier.py
 
 README.md
 ```
@@ -30,7 +30,7 @@ README.md
 Once you have your dependencies installed via pip, run the script in terminal via
 
 ```
-python demo.py
+python Day_1_GenderClassifier.py
 
 ```
 ## Challenge
@@ -46,4 +46,9 @@ X = [[181, 80, 44], [177, 70, 43], [160, 60, 38], [154, 54, 37], [166, 65, 40], 
 
 Y = ['male', 'male', 'female', 'female', 'male', 'male', 'female', 'female', 'female', 'male', 'male']
 ```
+## 4 classified Models used in the sample
+*1. Decision Tree
+*2. KNeighborsClassifier
+*3. linearSVM
+*4. AdaBoostClassifier
   
